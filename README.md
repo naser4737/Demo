@@ -1,4 +1,4 @@
 # Demo
 This is my first repository.
 <br>
-author - Mohammed Nasir
+author - Mohammed Nasir(Altamash)
